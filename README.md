@@ -25,5 +25,4 @@ It contains Power BI reports, datasets, and supporting materials created while e
 
 ---
 
-## 📂 Repository Structure
 
