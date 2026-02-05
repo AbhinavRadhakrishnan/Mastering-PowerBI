@@ -1,0 +1,10 @@
+# Power BI
+*.pbix
+*.pbit
+*.tmp
+*.bak
+*.log
+
+# System
+.DS_Store
+Thumbs.db
